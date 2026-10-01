@@ -1,0 +1,5 @@
+langchain-anthropic>=1.0
+langchain-core>=1.0
+google-api-python-client>=2.100
+google-auth-oauthlib>=1.2
+pydantic>=2.5
