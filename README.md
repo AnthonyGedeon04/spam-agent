@@ -1,5 +1,12 @@
 # Gmail spam agent (LangChain + Claude)
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1.x-1C3C3C?logo=langchain&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Haiku%204.5-D97757?logo=anthropic&logoColor=white)
+![Gmail API](https://img.shields.io/badge/Gmail%20API-v1-EA4335?logo=gmail&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
+![Tests](https://img.shields.io/badge/tests-pytest-0A9EDC?logo=pytest&logoColor=white)
+
 This program reads your new Gmail inbox mail, decides what each email is, and tidies it up:
 
 | What the email is | What happens to it |
